@@ -41,4 +41,25 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
     - final cart updates needs to be validated
     - improvements in test architecture needed
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+### [Postman Collections](https://www.getpostman.com/collections/9a16fc297afd4552585a)
+
+### Postman Enviroment
+    {
+        "id": "9a345018-7ad9-4d94-b884-a661a5ca24da",
+        "name": "MERNCommerge",
+        "values": [
+            {
+                "key": "auth",
+                "value": " ",
+                "enabled": true
+            },
+            {
+                "key": "url",
+                "value": "http://localhost:9100/api/",
+                "enabled": true
+            }
+        ],
+        "_postman_variable_scope": "environment",
+        "_postman_exported_at": "2020-02-21T11:10:09.639Z",
+        "_postman_exported_using": "Postman/7.18.1"
+    }
